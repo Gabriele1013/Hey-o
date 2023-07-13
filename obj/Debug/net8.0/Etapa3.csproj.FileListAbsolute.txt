@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\bin\Debug\net8.0\Etapa3.exe
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\bin\Debug\net8.0\Etapa3.deps.json
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\bin\Debug\net8.0\Etapa3.runtimeconfig.json
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\bin\Debug\net8.0\Etapa3.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\bin\Debug\net8.0\Etapa3.pdb
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\refint\Etapa3.dll
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.pdb
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\Etapa3.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Escritorio\Guardados\Etapa3\obj\Debug\net8.0\ref\Etapa3.dll
